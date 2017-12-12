@@ -1,5 +1,5 @@
-# logo-competition
-A transparent competition for React Denver’s new logo. We're excited to see what the community can come up with and what the community votes on!
+# Help wanted!
+React Denver needs your help creating a new logo. We're excited to see what the community can come up with and what the community votes on!
 
 ![the best react denver logo](./images/best-logo.png)
 
