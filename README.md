@@ -8,7 +8,7 @@ The following are some rough guidelines for what we're looking for in a logo for
 
 1. A symbol for Denver
 2. A symbol for React
-3. We'd like to stick with the blues & darker colors typically associated with React branding. However, we're open to all kinds of colors.
+3. We'd like to stick with the blues & darker colors typically associated with React branding. However, we're open to other color schemes.
 
 ## How it works
 
