@@ -3,6 +3,20 @@ React Denver needs your help creating a new logo. We're excited to see what the 
 
 ![the best react denver logo](./images/best-logo.png)
 
+## [@jsejcksn](https://github.com/jsejcksn)'s submission
+
+Alan's vexillology approach was inspirational for my submission.
+
+### Logo
+![React Denver logo](./images/rd-icon.png)
+
+> The negative space below the atom mimics a mountain peak from the Denver flag. Pretty cool, right?
+
+### Logo with type on non-white background
+![React Denver logo and type](./images/rd-banner.png)
+
+> Space Mono is pretty hot now (like React), but can be substituted in the future if necessary.
+
 ## Guidelines
 The following are some rough guidelines for what we're looking for in a logo for React Denver.
 
